@@ -4,6 +4,10 @@ Structure:
 Each notebook represents a different job description.
 The notebooks focus on various skills like SQL, Python, data visualization, market analysis, and data wrangling.
 Key tasks, problem-solving, and analytical techniques are highlighted in each notebook.
+## Structure:
+- Each notebook represents a different job description.
+- The notebooks focus on various skills like SQL, Python, data visualization, market analysis, and data wrangling.
+- Key tasks, problem-solving, and analytical techniques are highlighted in each notebook.
 Why this repository?
 This repository helps in:
 
