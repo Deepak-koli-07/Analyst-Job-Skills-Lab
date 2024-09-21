@@ -1,5 +1,5 @@
 # Analyst-Job-Skills-Lab
-"In this repository, I upload notebooks based on job descriptions from various companies when applying for jobs. By studying these descriptions, I practice the key skills that companies are looking for. This helps me improve my expertise in areas like data analysis, SQL, Python, and market analysis, aligning with industry demands and job expectations."
+"In this repository, I upload notebooks based on job descriptions from different companies when I apply for jobs. By analyzing these descriptions, I focus on practicing the key skills companies are looking for. This helps me improve my skills in areas like data analysis, SQL, Python, machine learning, and market analysis on the job market, ensuring I meet industry requirements and job expectations."
 ## Structure:
 - Each notebook represents a different job description.
 - The notebooks focus on various skills like SQL, Python, data visualization, market analysis, and data wrangling.
